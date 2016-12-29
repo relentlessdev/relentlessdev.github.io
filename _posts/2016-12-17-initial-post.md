@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Initial Post"
+title: "Introduction"
 date: 2016-12-17
 ---
 
-This is just an example `blog posting` to show that markdown is rendering as expected.
+Welcome to the Relentless Dev blog. I hope to start using this as a space to share some of my technical experiences. Stay tuned as I start to put this together.
